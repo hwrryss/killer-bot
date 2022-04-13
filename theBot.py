@@ -5,7 +5,7 @@ import conModule
 import msgs
 import os
 
-token='5087247335:AAHhTsiYXbEx8o58A5tphyPBHr8UVFa40EE'
+token='your token here'
 bot=telebot.TeleBot(token)
 gameStatus = False
 registrationStatus = True
