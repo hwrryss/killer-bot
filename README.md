@@ -7,9 +7,9 @@
   - create a bot and get a token from @BotFather
   - git clone this repository
   - go to the directory with the clone
-  - run ''' docker build . '''
-  - ''' docker images ''' and get the ID of the current container
-  - ''' docker run {container id} '''
+  - run ``` docker build . ```
+  - ``` docker images ``` and get the ID of the current container
+  - ``` docker run {container id} ```
 
 Enjoy :)
   
